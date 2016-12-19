@@ -1,0 +1,1 @@
+$(call inherit-product, vendor/ulefone/metal/metal-vendor-blobs.mk)
